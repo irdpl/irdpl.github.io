@@ -1,6 +1,6 @@
 ---
 title: Gotujemy się na WCAG 2.2.
-tags: misja, WCAG 2.2
+tags: misja, "WCAG 2.2"
 ---
 
 Gotujemy się na WCAG 2.2. Od dwóch tygodni intensywnie pracowaliśmy nad przygotowaniem platformy do prac nad tłumaczeniem WCAG na język polski. 
@@ -8,7 +8,6 @@ Gotujemy się na WCAG 2.2. Od dwóch tygodni intensywnie pracowaliśmy nad przyg
 <!--more-->
 
 ---
-# Gotujemy się na WCAG 2.2.
 
 Plan mamy ambitny:
   - przygotować polską wersję WCAG 2.2, gdy tylko W3C opublikuje rekomendację
