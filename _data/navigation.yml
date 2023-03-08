@@ -1,6 +1,9 @@
 header:
-  - title: O nas
-    url: /strony/o-nas
+  - title: Start
+    url: /start/
+
+  - title: O ird
+    url: /o-ird/
     
   - title: Blog
     url: /blog.html
