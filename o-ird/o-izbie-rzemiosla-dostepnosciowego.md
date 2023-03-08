@@ -15,6 +15,10 @@ articles:
 ---
 
 Strona O ird
+
+<!--more-->
+
 Tutaj jakiś tekst
 
 
+</div>
