@@ -8,10 +8,11 @@ Gotujemy się na WCAG 2.2. Od dwóch tygodni intensywnie pracowaliśmy nad przyg
 <!--more-->
 
 ---
+# Gotujemy się na WCAG 2.2.
 
 Plan mamy ambitny:
-- przygotować polską wersję WCAG 2.2, gdy tylko W3C opublikuje rekomendację
-- opracować tłumaczenia objaśnień do WCAG (na początek do kryteriów sukcesu WCAG 2.2).
+  - przygotować polską wersję WCAG 2.2, gdy tylko W3C opublikuje rekomendację
+  - opracować tłumaczenia objaśnień do WCAG (na początek do kryteriów sukcesu WCAG 2.2).
 
 Obserwuj postępy na [robocze tłumaczenie WCAG 2.2 na język polski](https://wcag.irdpl.pl/guidelines/22/ )
 
