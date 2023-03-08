@@ -1,6 +1,6 @@
 ---
 title: Zaczynamy
-tags: TeXt
+tags: ird
 ---
 
 Rozwijaj z nami dostępnośc cyfrową. Zaczynamy od tłumaczenia WCAG 2.2 na język polski. Reszta jest świetlaną przyszłością. 
