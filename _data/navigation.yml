@@ -1,9 +1,9 @@
 header:
-  - title: Start
-    url: /start/
-
-  - title: O ird
-    url: /o-ird/
+  - title: Archiwum
+    url: /archive.html
+    
+  - title: O nas
+    url: /o-nas.html
     
   - title: Blog
     url: /blog.html
