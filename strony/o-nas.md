@@ -2,8 +2,7 @@
 layout: articles
 title: O nas
 articles:
-  data_source: site.o-nas
+  data_source: site.strony
   type: brief
   show_info: true
-permalink: /o-nas.html  
 ---
