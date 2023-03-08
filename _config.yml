@@ -20,7 +20,7 @@ text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Misja Dostępność cyfrowa rzetelnie
+title   : Polska Izba Rzemiosła Dostępnościowego
 description: Tworzymy rynek rzetelnych usług na rzecz dostępności cyfrowej  # this means to ignore newlines until "Language & timezone"
 
 
