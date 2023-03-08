@@ -1,6 +1,7 @@
 header:
   - titles:
       # @start locale config
+      pl      : &PL       O nas      
       en      : &EN       About
       en-GB   : *EN
       en-US   : *EN
@@ -23,10 +24,11 @@ header:
       fr-LU   : *FR
       tr      : &TR       Hakkında
       # @end locale config
-    url: /about.html
+    url: /o-nas.html
     
   - titles:
       # @start locale config
+      pl      : &PL       Archiwum         
       en      : &EN       Archive
       en-GB   : *EN
       en-US   : *EN
@@ -49,4 +51,4 @@ header:
       fr-LU   : *FR
       tr      : &TR       Arşivdekiler
       # @end locale config
-    url: /archive.html
+    url: /archiwum.html
