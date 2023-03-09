@@ -3,7 +3,7 @@ layout: article
 title: Tłumaczenie WCAG 2.2
 permalink: /projekty/wcag-22.html
 key: tlumaczenie-wcag-22
-cover: /projekty/assets/images/cover-wcag22.png
+cover: /projekty/assets/images/irdpl-zst.png
 aside:
   toc: true
 ---
