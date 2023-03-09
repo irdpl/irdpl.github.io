@@ -13,7 +13,7 @@ articles:
 
 ---
 
-Brief article list with info.
+Krótka lista artykułów z informacjami.
 
 <!--more-->
 cosik tutaj
