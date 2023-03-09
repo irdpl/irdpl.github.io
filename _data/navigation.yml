@@ -3,8 +3,8 @@ header:
   - title: O nas
     url: /strony.html
     
-  - title: O nas2
-    url: /o-ird/uklad-info.html
+  - title: Projekty
+    url: /projekty/wcag-22.md
     
   - title: Blog
     url: /blog.html
