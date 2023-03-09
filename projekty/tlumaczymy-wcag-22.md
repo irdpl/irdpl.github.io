@@ -4,6 +4,8 @@ title: Tłumaczymy WCAG 2.2
 permalink: /projekty/wcag-22.html
 key: tlumaczymy-wcag-22
 cover: /projekty/assets/images/irdpl-zst.png
+show_author_profile: true
+author: Stefan Wajda
 aside:
   toc: true
 ---
