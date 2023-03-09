@@ -9,14 +9,14 @@ author: Stefan Wajda
 aside:
   toc: true
 ---
-
-<div class="item_image">
-<img src="/projekty/assets/images/irdpl-zst.png" alt="Obraz zastępczy" width="170">
+<div class="lid">
+<div class="lid__image">
+<img class="image" src="/projekty/assets/images/irdpl-zst.png" alt="Obraz zastępczy" width="170">
 </div>
-<div class="item_content">
+<div class="lid__content">
 Gotujemy się na publikację WCAG 2.2. Nie wiadomo, kiedy zostanie zakończą się prace Grupy Roboczej W3C nad kolejnym wydaniem WCAG. Planowany termin był już przesuwany kilka razy. I choć ostateczny kształt WCAG 2.2. nie jest pewny, chcemy być gotowi na ich ogłoszenie, aby jak najszybciej opublikowaać polską wersję.
 </div>   
-
+</div>  
   
 
 <!--more-->
