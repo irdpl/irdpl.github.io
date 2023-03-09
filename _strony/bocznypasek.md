@@ -1,9 +1,7 @@
 ---
 layout: article
 title: Strona - Boczny pasek
-permalink: /strony/bocznypasek.html
 key: strona-bocznypasek
-cover: /docs/assets/images/axure/page-aside.jpg
 aside:
   toc: true
 ---

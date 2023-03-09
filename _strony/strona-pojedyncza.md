@@ -1,7 +1,6 @@
 ---
 layout: article
 title: Pojedyncza strona
-permalink: /strony/pojedyncza.html
 key: strona-pojedyncza
 
 ---
