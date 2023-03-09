@@ -8,7 +8,9 @@ aside:
   toc: true
 ---
 
-![Obraz zastępczy](/projekty/assets/images/irdpl-zst.png)
+![Obraz zastępczy](/projekty/assets/images/irdpl-zst.png){:width="170px" height="170px"}
+
+
 
 Gotujemy się na publikację WCAG 2.2. Nie wiadomo, kiedy zostanie zakończą się prace Grupy Roboczej W3C nad kolejnym wydaniem WCAG. Planowany termin był już przesuwany kilka razy. I choć ostateczny kształt WCAG 2.2. nie jest pewny, chcemy być gotowi na ich ogłoszenie, aby jak najszybciej opublikowaać polską wersję.   
 
