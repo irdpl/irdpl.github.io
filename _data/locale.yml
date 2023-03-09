@@ -174,7 +174,7 @@ pl: &PL
   READMORE                : "Czytaj więcej"
   SEARCH                  : "Szukaj"
   CANCEL                  : "Anuluj"
-  VIEWS                   : "wyświetleń"
+  VIEWS                   : "Odsłon"
   LAST_UPDATED            : "Ostatnio zmienione"
   PREVIOUS                : "POPRZEDNIA"
   NEXT                    : "NASTĘPNA"
