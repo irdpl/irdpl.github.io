@@ -10,7 +10,9 @@ aside:
   toc: true
 ---
 
-<div class="item_image">![Obraz zastępczy](/projekty/assets/images/irdpl-zst.png){:width="170px" height="170px"}</div>
+<div class="item_image">
+![Obraz zastępczy](/projekty/assets/images/irdpl-zst.png){:width="170px" height="170px"}
+</div>
 <div class="item_content">Gotujemy się na publikację WCAG 2.2. Nie wiadomo, kiedy zostanie zakończą się prace Grupy Roboczej W3C nad kolejnym wydaniem WCAG. Planowany termin był już przesuwany kilka razy. I choć ostateczny kształt WCAG 2.2. nie jest pewny, chcemy być gotowi na ich ogłoszenie, aby jak najszybciej opublikowaać polską wersję.</div>   
 
   
