@@ -9,13 +9,4 @@ articles:
   show_info: true
 ---
 
-<div class="article__content" markdown="1">
 
----
-
-Krótka lista artykułów z informacjami.
-
-<!--more-->
-cosik tutaj
-
-</div>
