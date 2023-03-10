@@ -2,8 +2,10 @@
 layout: article
 title: O IRDpl
 permalink: /o-irdpl.html
+cover: /assets/images/irdpl-zst.png
 key: o-irdpl
-
+aside:
+  toc: true
 ---
 
 
