@@ -16,7 +16,7 @@ aside:
   </div>
   <div class="item__content">
      <div class="item__description">
-      <p>Gotujemy się na publikację WCAG 2.2. Nie wiadomo, kiedy zostanie zakończą się prace Grupy Roboczej W3C nad kolejnym wydaniem WCAG. Planowany termin był już przesuwany kilka razy. I choć ostateczny kształt WCAG 2.2. nie jest pewny, chcemy być gotowi na ich ogłoszenie, aby jak najszybciej opublikowaać polską wersję.</p>
+      <p>Gotujemy się na publikację WCAG 2.2. Nie wiadomo, kiedy Grupa Robocza W3C zakończy prace nad kolejnym wydaniem WCAG. Planowany termin był już przesuwany kilka razy. I choć ostateczny kształt WCAG 2.2. nie jest pewny, chcemy być gotowi na ich ogłoszenie, aby jak najszybciej opublikowaać polską wersję.</p>
     </div>
   </div>
 </div>
