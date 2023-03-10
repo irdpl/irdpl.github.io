@@ -33,6 +33,6 @@ Nazwa nieprzypadkowo nawiązuje do średniowiecznych tradycji organizowania się
 ## Przyszłość
 
 Nie planujemy tworzenia formalnej organizacji. Ale też nie mamy nic przeciwko, by z ziaren, które dziś siejemy, wyrosła taka w przyszłości. 
-Póki co, nie jest nam potrzebna kolejna organizacja. Potrzebujemy natomiast rzeczywistej pracy i współpracy, która zbuduje solidne podwaliny dostępności w Polsce.
+Póki co, nie jest nam potrzebna kolejna organizacja. Potrzebujemy natomiast rzeczywistej pracy, aby zbudować solidne podwaliny dostępności w Polsce.
 
-Dużo się już dzieje. Aby działo się więcej i efektywniej, potrzebna jest platforma - narzędzie swobodnej zorganizowanej współpracy. I taką właśnie platformą ma być Polska Izba Rzemiosła Dostępnościowego.      
+Dużo się już dzieje. Aby działo się więcej i efektywniej, potrzebna jest platforma - narzędzie swobodnej zorganizowanej współpracy. I taką właśnie platformą ma być ten ośrodek na Github -  Polska Izba Rzemiosła Dostępnościowego.      
