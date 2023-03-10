@@ -1,7 +1,7 @@
 header:
   
   - title: O nas
-    url: /strona.html
+    url: /o-irdpl.html
     
   - title: Projekty
     url: /projekty/tlumaczymy-wcag-22.html
@@ -10,4 +10,4 @@ header:
     url: /blog.html
     
   - title: Pomoc Github
-    url: https://support.github.com/  
+    url: https://support.github.com/ 
