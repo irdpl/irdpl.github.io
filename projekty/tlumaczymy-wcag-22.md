@@ -4,8 +4,8 @@ title: Tłumaczymy WCAG 2.2
 permalink: /projekty/tlumaczymy-wcag-22.html
 key: tlumaczymy-wcag-22
 cover: /projekty/assets/images/irdpl-zst.png
-show_author_profile: true
-author: Stefan Wajda
+# show_author_profile: true
+# author: Stefan Wajda
 aside:
   toc: true
 ---
@@ -21,17 +21,10 @@ aside:
   </div>
 </div>
 
-
-
-
-
-
-
-  
-
 <!--more-->
 
 ## Weź udział w tłumaczeniu
+
 Każdy może uczestniczyć w tłumaczeniu, zgłaszać swoje propozycje, uwagi, wątliwości. W szczególności każdy może:
 - zgłosić problem z aktualnym oficjalnym tłumaczeniem WCAG 2.1 na język polski, 
 - proponować i odnosić się do propozycji każdego nowego w WCAG 2.2 kryterium sukcesu
@@ -39,15 +32,14 @@ Każdy może uczestniczyć w tłumaczeniu, zgłaszać swoje propozycje, uwagi, w
 - proponować i odnosić się do propozycji tłumaczenia tekstu wprowadzającego i opisującego WCAG 2.2
 
 ## Co zamierzamy
-Plan minimum to opracowanie tłumaczenia podstawowego dokumentu WCAG 2.2.
 
+- Plan minimum to opracowanie tłumaczenia podstawowego dokumentu WCAG 2.2.
+- Plan ambitny to przygotowanie po wydaniu WCAG 2.2 dokumentu Jak spełnić WCAG
+- Plan bardzo ambitny to opracowanie tłumaczeń dokumentów z serii Understanding, czyli objaśnień wytycznych, kryteriów sukcesu, pojęć.
+- Plan super ambitny to opracowanie tłumaczeń technik wystarczających, pomocniczych i błędnych. 
 
-## Header 2
-mmmm
-### Header 2.1
-xxx
-## Header 3
-xxxx
+Wszystko jest możliwe. Wszystko w naszych rękach. To znaczy Twoich też! 
+
 
 
 
