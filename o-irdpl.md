@@ -15,7 +15,7 @@ aside:
   </div>
   <div class="item__content">
      <div class="item__description">
-      <p><abbr title="Polska Izba Rzemiosła Dostępnościowego">IRDpl</abbr> to platforma swobodnej współpracy osób i firm, które zajmują się dostępnością i chcą rozwijać w&nbsp;Polsce rynek rzetelnych usług dostępnościowych. <strong>PIRDpl</strong> nie jest formalnym zrzeszeniem, lecz ośrodkiem utworzonym na Github, aby umożlić inicjowanie i prowadzenie konkretnych prac nad zasobami niezbędnymi do zapewniania dostępności. Na&nbsp;IRDPL każdy może zainicjować i hostosować dowolny projekt, który wzbogaci warsztat pracy specjalistów ds.&nbsp;dostępności. Warunek: projekt musi być udostępniony na jednej z&nbsp;<a href="https://prawokultury.pl/kurs/wolne-licencje">wolnych licencji</a>, np. CC-BY-4.0, GPL, GFDL.</p>
+      <p><abbr title="Polska Izba Rzemiosła Dostępnościowego">IRDpl</abbr> to platforma swobodnej współpracy osób i firm, które zajmują się dostępnością i chcą rozwijać w&nbsp;Polsce rynek rzetelnych usług dostępnościowych. <strong>IRDpl</strong> nie jest formalnym zrzeszeniem, lecz ośrodkiem utworzonym na Github, aby umożlić inicjowanie i prowadzenie konkretnych prac nad zasobami niezbędnymi do zapewniania dostępności. Na&nbsp;<strong>IRDpl</strong> każdy może zainicjować i hostosować dowolny projekt, który wzbogaci warsztat pracy specjalistów ds.&nbsp;dostępności. Warunek: projekt musi być udostępniony na jednej z&nbsp;<a href="https://prawokultury.pl/kurs/wolne-licencje">wolnych licencji</a>, np. CC-BY-4.0, GPL, GFDL.</p>
     </div>
   </div>
 </div>
