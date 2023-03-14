@@ -30,7 +30,7 @@ Pomysł izby rzemiosła dostępnościowego wyartykułował po raz pierwszy przed
 
 Nazwa nieprzypadkowo nawiązuje do średniowiecznych tradycji organizowania się kupców, rzemieślników i artystów w&nbsp;[gildie](https://pl.wikipedia.org/wiki/Gildia_(historia)), a w konsekwencji także do współczesnych [izb rzemieślniczych](https://pl.wikipedia.org/wiki/Izba_rzemie%C5%9Blnicza). 
 
-**PIRDpl** ma wspierać taką samoorganizację osób i firm zajmujących się dostępnością. 
+**IRDpl** ma wspierać taką samoorganizację osób i firm zajmujących się dostępnością. 
 
 ## Przyszłość
 
