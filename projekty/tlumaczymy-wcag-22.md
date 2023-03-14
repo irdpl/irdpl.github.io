@@ -25,7 +25,7 @@ aside:
 
 ## Weź udział w tłumaczeniu
 
-Każdy może uczestniczyć w tłumaczeniu, zgłaszać swoje propozycje, uwagi, wątliwości. W szczególności każdy może:
+Każdy może uczestniczyć w tłumaczeniu, zgłaszać swoje propozycje, uwagi, wątpliwości. W szczególności każdy może:
 - zgłosić problem z aktualnym oficjalnym tłumaczeniem WCAG 2.1 na język polski, 
 - proponować i odnosić się do propozycji każdego nowego w WCAG 2.2 kryterium sukcesu
 - proponować i odnosić się do propozycji każdego nowego w WCAG 2.2 terminu słownikowego
