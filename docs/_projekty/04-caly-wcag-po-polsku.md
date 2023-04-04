@@ -3,7 +3,7 @@ layout: article
 title: Cały WCAG po polsku!
 permalink: /projekty/caly-wcag-po-polsku.html
 key: caly-wcag-po-polsku
-cover: /docs/assets/images/axure/wcag-po-polsku.png
+cover: /docs/assets/images/projekty/wcag-po-polsku.svg
 # show_author_profile: true
 # author: Stefan Wajda
 aside:
@@ -13,7 +13,7 @@ lang: pl
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--lg" src="../docs/assets/images/axure/wcag-po-polsku.png" alt=""/>
+    <img class="image image--lg" src="../docs/assets/images/projekty/wcag-po-polsku.svg" alt=""/>
   </div>
   <div class="item__content">
      <div class="item__description">

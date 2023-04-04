@@ -3,7 +3,7 @@ layout: article
 title: Pierwszy pull request
 permalink: /projekty/pierwszy-pull-request.html
 key: pierwszy-pull-request
-cover: /docs/assets/images/axure/pull-request.svg
+cover: /docs/assets/images/projekty/pull-request.svg
 # show_author_profile: true
 # author: Stefan Wajda
 aside:
@@ -13,7 +13,7 @@ lang: pl
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--lg" src="../docs/assets/images/axure/pull-request.svg" alt=""/>
+    <img class="image image--lg" src="../docs/assets/images/projekty/pull-request.svg" alt=""/>
   </div>
   <div class="item__content">
      <div class="item__description">
@@ -43,27 +43,27 @@ Propozycję tłumaczenia możesz przygotować w swojej kopii repozytorium w edyt
 ### Jak zacząć?
 
 1. Przejdź na stronę [Wszystkie objaśnienia WCAG](https://www.irdpl.pl/translathon/) i wybierz z listy objaśnień to, które chcesz przetłumaczyć, np. **KS 1.1.1 Treść nietekstowa**.<br/><br/>
-  ![Strona główna Wszystkie objaśnienia](/docs/assets/images/00-wszystkie.png)<br/><br/>
+  ![Strona główna Wszystkie objaśnienia](/docs/assets/images/poradnik/00-wszystkie.png)<br/><br/>
 1. Na stronie [Treść nietekstowa](https://www.irdpl.pl/translathon/20/tresc-nietekstowa.html) wybierz przycisk **Tłumacz to Objaśnienie**:<br/><br/>
-  ![Położenie łącza Tłumacz to objaśnienie na stronie KS 1.1.1 Treść nietekstowa](/docs/assets/images/00-tresc-nietekstowa.png)<br/><br/>
+  ![Położenie łącza Tłumacz to objaśnienie na stronie KS 1.1.1 Treść nietekstowa](/docs/assets/images/poradnik/00-tresc-nietekstowa.png)<br/><br/>
 1. Łącze przeniesie Cię najpewniej na ekran logowania do Twojego konta Github. Zaloguj się.<br/><br/>
-  ![Ekran logowania do Github](/docs/assets/images/01-zaloguj-sie.png)<br/><br/>
+  ![Ekran logowania do Github](/docs/assets/images/poradnik/01-zaloguj-sie.png)<br/><br/>
 1. Na kolejnym ekranie system zaproponuje Ci utworzenie kopii repozytorium na Twoim koncie Github: _You need to fork this repository to propose changes_, czyli _Musisz rozwidlić to repozytorium, aby zaproponować zmiany_, bo - oczywiście - nie możesz dokonywać bezpośrednio zmian w oryginale. Wybierz przycisk: **Fork this repository**<br/><br/>
-  ![Ekran logowania do Github](/docs/assets/images/02-fork-repository.png)<br/><br/>
+  ![Ekran logowania do Github](/docs/assets/images/poradnik/02-fork-repository.png)<br/><br/>
 1. Operacja tworzenia Twojej kopii repozytorium potrwa kilka chwil. Zakończy się otwarciem pliku do edycji w edytorze Github na Twojej kopii:<br/><br/>
-  ![Ekran logowania do Github](/docs/assets/images/03-edytor.png)<br/><br/>
+  ![Ekran logowania do Github](/docs/assets/images/poradnik/03-edytor.png)<br/><br/>
 1. Przewiń teraz treść w edytorze w dół do komentarza **Tu rozpocznij tłumaczenie**. I wykonaj tłumaczenie (???? a co, gdy gdy zostanie wykonana tylko część tłumaczenia???):<br/><br/>
-  ![Ekran logowania do Github](/docs/assets/images/04-poprawiony.png)<br/><br/>
+  ![Ekran logowania do Github](/docs/assets/images/poradnik/04-poprawiony.png)<br/><br/>
 1. Gdy zakończysz pracę nad tłumaczeniem, co sygnalizuje tekst komentarza **Poniżej nic nie zmianiaj**, wpisz w polu **<span lang="en">Propose changes</span>** tytuł Twojej zmiany według wzoru, np.: **Tłumaczenie KS 1.1.1** (lub _Tłumaczenie Wytycznej 1.2_. Następnie wybierz przycisk  <br/><br/>
-  ![Ekran logowania do Github](/docs/assets/images/05-propose-changes.png)<br/><br/>
+  ![Ekran logowania do Github](/docs/assets/images/poradnik/05-propose-changes.png)<br/><br/>
 1. Gdy zakończysz pracę nad tłumaczeniem, co sygnalizuje tekst komentarza **Poniżej nic nie zmianiaj**, wpisz w polu **<span lang="en">Propose changes</span>** tytuł Twojej zmiany według wzoru, np.: **Tłumaczenie KS 1.1.1** (lub _Tłumaczenie Wytycznej 1.2_. Następnie wybierz przycisk **Propose changes**. Pole komentarza możesz pozostawić puste. Zostanie otwarty ekran **<span lang="en">Comparing changes</span>** (Porównmanie zmian). Możesz tu przejrzeć jeszcze raz proponowane zmiany<br/><br/>
-  ![Ekran logowania do Github](/docs/assets/images/06-comapring-changes.png)<br/><br/>
+  ![Ekran logowania do Github](/docs/assets/images/poradnik/06-comapring-changes.png)<br/><br/>
 1. Jeśli wszystko jest OK, wybierz przycisk  **<span lang="en">Create pull request</span>**. Zostanie otwarte okno **<span lang="en">Open pull request</span>**. Jedyne, co musisz teraz zrobić, to wybrać jeszcze raz przycisk **<span lang="en">Create pull request</span>**<br/><br/>
-  ![Ekran logowania do Github](/docs/assets/images/07-open-a-pull-request.png)<br/><br/>
+  ![Ekran logowania do Github](/docs/assets/images/poradnik/07-open-a-pull-request.png)<br/><br/>
 1. Twoje zgłoszenie zostanie zapisane. Zobaczysz jego podgląd. Możesz wybrać kartę **<span lang="en">Create pull request</span>**<br/><br/>
-  ![Ekran logowania do Github](/docs/assets/images/08-tranlathon-utworzone.png)<br/><br/>
+  ![Ekran logowania do Github](/docs/assets/images/poradnik/08-tranlathon-utworzone.png)<br/><br/>
 1. Twoje zgłoszenie zostanie zapisane. Zobaczysz jego podgląd. Aby podejrzeć proponowane zmiany, wybierz kartę **<span lang="en">Files changed</span>**<br/><br/>
-  ![Ekran logowania do Github](/docs/assets/images/09-porownaj-zmiany.png)<br/><br/>  
+  ![Ekran logowania do Github](/docs/assets/images/poradnik/09-porownaj-zmiany.png)<br/><br/>  
   
   
   

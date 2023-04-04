@@ -3,7 +3,7 @@ layout: article
 title: Nasze projekty
 permalink: /projekty/ird-nasze-projekty.html
 key: ird-nasze-projekty
-cover: /docs/assets/images/axure/irdpl-projekty.svg
+cover: /docs/assets/images/projekty/irdpl-projekty.svg
 aside:
   toc: true
 lang: pl  
@@ -11,7 +11,7 @@ lang: pl
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--lg" src="../docs/assets/images/axure/irdpl-projekty.svg" alt=""/>
+    <img class="image image--lg" src="../docs/assets/images/projekty/irdpl-projekty.svg" alt=""/>
   </div>
   <div class="item__content">
      <div class="item__description">
@@ -34,9 +34,7 @@ Rozpoczynamy od kilku projektów. I od kilku pomysłów na projekty.
 17 marca uruchomiliśmy projekt [Biblioteka Liderów Dostępności](biblioteka-liderow-dostepnosci.html). W jednym łatwo dostępnym z każdego miejsca na ziemi miejscu gromadzimy poświęcone dostępności publikacje zwarte, wydane w formacie PDF albo kompletne dokumenty opublikowane na stronach internetowych (tylko wóczas, gdy serwer wydawcy pozwala na osadzenie opublikowanej treści we wpinaczu (ramce iFrame). Biblioteka liczy już ponad 100 pozycji. 
 
 ### Narzędzia audytora 
-Na początek mamy polską wersję [HTML_CodeSniffer](https://www.irdpl.pl/HTML_CodeSniffer/) - usługa internetowa i skryptozakadka. Na stronie możesz zbadać zgodność ze standardami dostępności swojego kodu HTML. Za pomocą skryptozakładki możesz badać strony swojej witryny. 
-
-Masz polską wersję narzędzia automatycznego? Podziel się!  
+Na początek mamy polską wersję [HTML_CodeSniffer](https://www.irdpl.pl/HTML_CodeSniffer/) - usługa internetowa i skryptozakadka. Na stronie możesz zbadać zgodność ze standardami dostępności swojego kodu HTML. Za pomocą skryptozakładki możesz badać strony swojej witryny. Masz polską wersję narzędzia automatycznego? Podziel się!  
 
 ### Spotkania IRD
 Od roku w ostatnią środę miesiąca odbywają się posiady grona osób zajmujących się dostępnością cyfrową. Zainicjowane i zwoływane przez Jacka Zadrożnego pogaduchy na Zoom-ie służą rozmowom o tym, co kto robi, co mu po głowie chodzi, co...  
@@ -44,12 +42,13 @@ Od roku w ostatnią środę miesiąca odbywają się posiady grona osób zajmuj�
 ### SZAD - webring
 **SZAD**, czyli&hellip; _Sieć Zaufanych Audytorów Dostępności_. Pomysł się dopiero rodzi. A chodzi o to, by uruchomić formę publicznych referencji dla osób i&nbsp;firm, które oferują usługi audytorskie. 
 
-Choć kompetencje audytorskie można już potwierdzić według reguł opisanych w&nbsp;[zintegrowanym systemie kwalifikacji zawodowych](https://kwalifikacje.gov.pl/p?id_pod=25497), to póki co nie ma na rynku takich specjalistów. Ale przybywa firm i osób, którzy oferowane usługi realizują na odpowiednim poziomie. 
-Proponujemy pod rozwagę rozwiązanie oparte na zapomnianym już [webringu](https://pl.wikipedia.org/wiki/Webring). Być może tylko przejściowe, na kilka lat. Korzystając z mechanizmu webringu utworzymy **Sieć Zaufanych Audytorów Dostępności**. Nazwa do rozważenia. 
+Choć kompetencje audytorskie można już potwierdzić według reguł opisanych w&nbsp;[zintegrowanym systemie kwalifikacji zawodowych](https://kwalifikacje.gov.pl/p?id_pod=25497), to póki co, nie ma na rynku takich specjalistów. Ale przybywa firm i osób, którzy oferowane usługi realizują na odpowiednim poziomie. 
 
-IRD byłby _ringmasterem_,  odpowiedzialnym za zatwierdzanie i dodawanie do webringu witryn **zaufanych audytorów** czy szerzej **zaufanych ekspertów**. Zasady włączania do kręgu - do ustalenia. Ale powinny być proste i łatwe do weryfikacji. Weryfikacji zgłoszeń dokonywałby np. krąg 3 sędziów powoływanych z grona uczestników webringu.      
+Rozwiązaniem, być może tylko przejściowym, mogłaby być **Sieć Zaufanych Audytorów Dostępności** oparta na zapomnianym już mechanizmie [webringu](https://pl.wikipedia.org/wiki/Webring). Nazwa do rozważenia. 
 
-Włączenie do Sieci byłoby poświadczeniem przez IRD, że uczestnik webringu  
+IRD byłby _ringmasterem_, odpowiedzialnym za zatwierdzanie i dodawanie do webringu witryn **zaufanych audytorów** czy szerzej **zaufanych ekspertów**. Zasady włączania do kręgu - do ustalenia. Ale powinny być proste i łatwe do weryfikacji. Weryfikacji zgłoszeń dokonywałby np. krąg 3 sędziów powoływanych z grona uczestników webringu.      
+
+<!-- Uczestnictwo w **SZAD** byłoby poświadczeniem przez innych uczdestników IRD, że uczestnik webringu  -->
 
 
 

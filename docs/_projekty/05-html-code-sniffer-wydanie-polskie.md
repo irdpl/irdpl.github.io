@@ -3,7 +3,7 @@ layout: article
 title: HTML_CodeSniffer - wydanie polskie
 permalink: /projekty/html-code-sniffer-wydanie-polskie.html
 key: html-code-sniffer-wydanie-polskie
-cover: /docs/assets/images/axure/html_codesniffer.png
+cover: /docs/assets/images/projekty/html_codesniffer.svg
 # show_author_profile: true
 # author: Stefan Wajda
 aside:
@@ -13,7 +13,7 @@ lang: pl
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--lg" src="../docs/assets/images/axure/html_codesniffer.png" alt=""/>
+    <img class="image image--lg" src="../docs/assets/images/projekty/html_codesniffer.svg" alt=""/>
   </div>
   <div class="item__content">
      <div class="item__description">
