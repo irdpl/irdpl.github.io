@@ -1,6 +1,6 @@
 ---
 title: Pierwszy miesiąc
-tags: ird
+tags: [ird, projekty, SZAD, translathon, HTML_CodeSniffer]
 ---
 
 &hellip;i pierwsze koty za płoty. Powstały fundamenty <abbr title="Izby Rzemiosła Dostępnościowego">IRDpl</abbr>. Mamy domenę, mamy witrynę. Pojawiły się pirwsze projekty - [Tłumacz z nami WCAG](tlumacz-z-nami-wcag-22.html), [Biblioteka Liderów Dostępności](biblioteka-liderow-dostepnosci.html), [HTML_CodeSniffer po polsku][html-code-sniffer-wydanie-polskie.html]. Rozważamy kolejne.  
