@@ -40,7 +40,7 @@ Na początek mamy polską wersję [HTML_CodeSniffer](https://www.irdpl.pl/HTML_C
 Od roku w ostatnią środę miesiąca odbywają się posiady grona osób zajmujących się dostępnością cyfrową. Zainicjowane i zwoływane przez Jacka Zadrożnego pogaduchy na Zoom-ie służą rozmowom o tym, co kto robi, co mu po głowie chodzi, co...  
 
 ### SZAD - webring
-**SZAD**, czyli&hellip; [Sieć Zaufanych Audytorów Dostępności](szad.html). Pomysł się dopiero rodzi. A chodzi o to, by uruchomić formę publicznych referencji dla osób i&nbsp;firm, które oferują usługi audytorskie. 
+**SZAD**, czyli&hellip; [Sieć Zaufanych Audytorów Dostępności](ird-szad.html). Pomysł się dopiero rodzi. A chodzi o to, by uruchomić formę publicznych referencji dla osób i&nbsp;firm, które oferują usługi audytorskie. 
 
 Sieć spełniałaby w pewnym sensie rolę poręczyciela, że uczestnicy Sieci to specjaliści, którzy oferują solidny poziom usług. Dla zamawiających Sieć mogłaby być także miejscem poszukiwamnia wykonawców dla swoich zleceń.
 
