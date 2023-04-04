@@ -28,15 +28,15 @@ lang: pl
 
 
 ### SZAD - webring
-       <p>Choć kompetencje audytorskie można już potwierdzić według reguł opisanych w&nbsp;[zintegrowanym systemie kwalifikacji zawodowych](https://kwalifikacje.gov.pl/p?id_pod=25497), ale póki co, nie ma na rynku takich specjalistów.</p>  
+<p>Choć kompetencje audytorskie można już potwierdzić według reguł opisanych w&nbsp;[zintegrowanym systemie kwalifikacji zawodowych](https://kwalifikacje.gov.pl/p?id_pod=25497), ale póki co, nie ma na rynku takich specjalistów.</p>  
 
-Choć kompetencje audytorskie można już potwierdzić według reguł opisanych w&nbsp;[zintegrowanym systemie kwalifikacji zawodowych](https://kwalifikacje.gov.pl/p?id_pod=25497), to póki co, nie ma na rynku takich specjalistów. Ale przybywa firm i osób, którzy oferowane usługi realizują na odpowiednim poziomie. 
+Rozwiązaniem, nawet tylko przejściowym, może stać się **Sieć Zaufanych Audytorów Dostępności** oparta na zapomnianym już mechanizmie [webringu](https://pl.wikipedia.org/wiki/Webring). Nazwa do rozważenia. 
 
-Rozwiązaniem, być może tylko przejściowym, mogłaby być **Sieć Zaufanych Audytorów Dostępności** oparta na zapomnianym już mechanizmie [webringu](https://pl.wikipedia.org/wiki/Webring). Nazwa do rozważenia. 
+IRD byłby _ringmasterem_, odpowiedzialnym za zatwierdzanie i dodawanie do webringu witryn **zaufanych audytorów**, czy szerzej **zaufanych ekspertów**. Zasady włączania do kręgu - do ustalenia. Ale powinny być proste i łatwe do weryfikacji. Weryfikacji zgłoszeń dokonywałby np. krąg 3 sędziów powoływanych z grona uczestników webringu. 
 
-IRD byłby _ringmasterem_, odpowiedzialnym za zatwierdzanie i dodawanie do webringu witryn **zaufanych audytorów** czy szerzej **zaufanych ekspertów**. Zasady włączania do kręgu - do ustalenia. Ale powinny być proste i łatwe do weryfikacji. Weryfikacji zgłoszeń dokonywałby np. krąg 3 sędziów powoływanych z grona uczestników webringu.      
+Sieć spełniałaby w pewnym sensie rolę poręczyciela, że uczestnicy Sieci to specjaliści, którzy oferują solidny poziom usług. Dla Zamawiających Sieć mogłaby być także miejscem poszukiwamnia wykonawców dla swoich zleceń.
 
-<!-- Uczestnictwo w **SZAD** byłoby poświadczeniem przez innych uczdestników IRD, że uczestnik webringu  -->
+Porozmawiajmy!
 
 
 

@@ -25,7 +25,7 @@ aside:
 
 <!--more-->
 ## Skąd ta nazwa?
-Pomysł izby rzemiosła dostępnościowego wyartykułował po raz pierwszy przed 10 laty [Dominik Paszkiewicz](https://www.linkedin.com/in/dominikpaszkiewicz/?originalSubdomain=pl). W&nbsp;grudniu 2021 roku przypomniał go [Jacek Zadrożny](https://www.linkedin.com/in/jaczad/), zapraszając grono specjalistów dostępności cyfrowej na comiesięczne posiady i pogaduchy na Zoom-ie. 
+Pomysł izby rzemiosła dostępnościowego wyartykułował po raz pierwszy przed 10 laty [Dominik Paszkiewicz](https://www.linkedin.com/in/dominikpaszkiewicz/?originalSubdomain=pl). Pod koniec 2021 roku przypomniał go [Jacek Zadrożny](https://www.linkedin.com/in/jaczad/), zapraszając grono specjalistów dostępności cyfrowej na comiesięczne posiady i pogaduchy na Zoom-ie. 
 
 Nazwa nieprzypadkowo nawiązuje do średniowiecznych tradycji organizowania się kupców, rzemieślników i artystów w&nbsp;[gildie](https://pl.wikipedia.org/wiki/Gildia_(historia)), a w konsekwencji także do współczesnych [izb rzemieślniczych](https://pl.wikipedia.org/wiki/Izba_rzemie%C5%9Blnicza). 
 
