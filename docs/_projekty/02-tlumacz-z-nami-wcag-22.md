@@ -8,7 +8,8 @@ cover: /docs/assets/images/projekty/tlumacz-z-nami-wcag-2-2.svg
 # author: Stefan Wajda
 aside:
   toc: true
-lang: pl   
+lang: pl 
+  comments: true 
 ---
 
 <div class="item">

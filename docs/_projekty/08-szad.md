@@ -6,7 +6,8 @@ key: ird-nasze-projekty
 cover: /docs/assets/images/projekty/szad.svg
 aside:
   toc: true
-lang: pl  
+lang: pl 
+comments: true 
 ---
 
 <div class="item">

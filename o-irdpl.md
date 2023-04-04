@@ -4,6 +4,7 @@ title: O IRDpl
 permalink: /o-irdpl.html
 cover: /assets/images/irdpl.svg
 key: o-irdpl
+comments:true
 aside:
   toc: true
 ---

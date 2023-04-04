@@ -9,5 +9,6 @@ articles:
   show_readmore: true
   show_info: true
 aside:
-  toc: true  
+  toc: true 
+comments: true   
 ---

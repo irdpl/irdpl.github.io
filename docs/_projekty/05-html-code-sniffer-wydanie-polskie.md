@@ -8,7 +8,8 @@ cover: /docs/assets/images/projekty/html_codesniffer.svg
 # author: Stefan Wajda
 aside:
   toc: true
-lang: pl  
+lang: pl 
+ comments: true 
 ---
 
 <div class="item">

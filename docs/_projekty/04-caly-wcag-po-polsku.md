@@ -8,7 +8,8 @@ cover: /docs/assets/images/projekty/wcag-po-polsku.svg
 # author: Stefan Wajda
 aside:
   toc: true
-lang: pl   
+lang: pl 
+comments: true   
 ---
 
 <div class="item">
