@@ -2,7 +2,7 @@
 layout: article
 title: O IRDpl
 permalink: /o-irdpl.html
-cover: /assets/images/irdpl-zst.png
+cover: /assets/images/irdpl.svg
 key: o-irdpl
 aside:
   toc: true
@@ -11,11 +11,11 @@ aside:
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--sm" src="/assets/images/irdpl-zst.png" alt="Logo PIRD"/>
+    <img class="image image--sm" src="/assets/images/irdpl.svg" alt="Logo IRDpl"/>
   </div>
   <div class="item__content">
      <div class="item__description">
-      <p><abbr title="Polska Izba Rzemiosła Dostępnościowego">IRDpl</abbr> to platforma swobodnej współpracy osób i firm, które zajmują się dostępnością i chcą rozwijać w&nbsp;Polsce rynek rzetelnych usług dostępnościowych. <strong>IRDpl</strong> nie jest formalnym zrzeszeniem, lecz ośrodkiem utworzonym na Github, aby umożlić inicjowanie i prowadzenie konkretnych prac nad zasobami niezbędnymi do zapewniania dostępności. Na&nbsp;<strong>IRDpl</strong> każdy może zainicjować i hostosować dowolny projekt, który wzbogaci warsztat pracy specjalistów ds.&nbsp;dostępności. Warunek: projekt musi być udostępniony na jednej z&nbsp;<a href="https://prawokultury.pl/kurs/wolne-licencje">wolnych licencji</a>, np. CC-BY-4.0, GPL, GFDL.</p>
+      <p><abbr title="Polska Izba Rzemiosła Dostępnościowego">IRDpl</abbr> to platforma swobodnej współpracy osób i firm, które zajmują się dostępnością i chcą rozwijać w&nbsp;Polsce rynek rzetelnych usług dostępnościowych. <strong>IRDpl</strong> nie jest formalnym zrzeszeniem, lecz ośrodkiem utworzonym na Github, aby umożliwić inicjowanie i prowadzenie konkretnych prac nad zasobami niezbędnymi do zapewniania dostępności. Na&nbsp;<strong>IRDpl</strong> każdy może zainicjować i hostosować dowolny projekt, który wzbogaci warsztat pracy specjalistów ds.&nbsp;dostępności. Warunek: projekt musi być udostępniony na jednej z&nbsp;<a href="https://prawokultury.pl/kurs/wolne-licencje">wolnych licencji</a>, np. CC-BY-4.0, GPL, GFDL.</p>
     </div>
   </div>
 </div>
@@ -25,8 +25,7 @@ aside:
 
 <!--more-->
 ## Skąd ta nazwa?
-Pomysł izby rzemiosła dostępnościowego wyartykułował po raz pierwszy przed 10 laty [Dominik Paszkiewicz](https://www.linkedin.com/in/dominikpaszkiewicz/?originalSubdomain=pl). <!-- Jeśli nie wiesz, kto zacz, poszukaj w Googlach 
-[Dostępność serwisów internetowych&hellip;](http://www.niepelnosprawni.pl/ledge/x/249472). -->W&nbsp;ubiegłym roku przypomniał go [Jacek Zadrożny](https://www.linkedin.com/in/jaczad/), zapraszając grono specjalistów dostępności cyfrowej na comiesięczne posiady i pogaduchy na Zoom-ie. 
+Pomysł izby rzemiosła dostępnościowego wyartykułował po raz pierwszy przed 10 laty [Dominik Paszkiewicz](https://www.linkedin.com/in/dominikpaszkiewicz/?originalSubdomain=pl). W&nbsp;grudniu 2021 roku przypomniał go [Jacek Zadrożny](https://www.linkedin.com/in/jaczad/), zapraszając grono specjalistów dostępności cyfrowej na comiesięczne posiady i pogaduchy na Zoom-ie. 
 
 Nazwa nieprzypadkowo nawiązuje do średniowiecznych tradycji organizowania się kupców, rzemieślników i artystów w&nbsp;[gildie](https://pl.wikipedia.org/wiki/Gildia_(historia)), a w konsekwencji także do współczesnych [izb rzemieślniczych](https://pl.wikipedia.org/wiki/Izba_rzemie%C5%9Blnicza). 
 

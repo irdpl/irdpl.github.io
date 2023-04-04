@@ -176,7 +176,6 @@ analytics:
     tracking_id : # Google Analytics id for the site
     anonymize_ip: false # Anonymize IP tracking for Analytics
 
-
 ## => Build
 ##############################
 markdown    : kramdown
@@ -195,12 +194,19 @@ exclude:
   - jekyll-text-theme.gemspec
   - package-lock.json
   - package.json
-  - /docs
+#  - /docs
   - /node_modules
   - /screenshots
   - /test
   - /vendor
-
+  
+collections_dir: docs
+collections:
+  docs:
+    output: true
+  projekty:
+    output: true
+    
 defaults:
   - scope:
       path: ""
