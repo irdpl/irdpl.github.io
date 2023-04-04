@@ -28,7 +28,7 @@ description: Tworzymy rynek rzetelnych usług na rzecz dostępności cyfrowej  #
 ## => Language and Timezone
 ##############################
 lang: pl # the language of your site, default as "en"
-timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+timezone: Europe/Warsaw # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
