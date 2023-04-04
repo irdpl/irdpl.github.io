@@ -42,6 +42,8 @@ Propozycję tłumaczenia możesz przygotować w swojej kopii repozytorium w edyt
 
 ### Jak zacząć?
 
+**Uwaga**: To jest pierwsza wstępna wersja poradnika. 
+
 1. Przejdź na stronę [Wszystkie objaśnienia WCAG](https://www.irdpl.pl/translathon/) i wybierz z listy objaśnień to, które chcesz przetłumaczyć, np. **KS 1.1.1 Treść nietekstowa**.<br/><br/>
   ![Strona główna Wszystkie objaśnienia](/docs/assets/images/poradnik/00-wszystkie.png)<br/><br/>
 1. Na stronie [Treść nietekstowa](https://www.irdpl.pl/translathon/20/tresc-nietekstowa.html) wybierz przycisk **Tłumacz to Objaśnienie**:<br/><br/>

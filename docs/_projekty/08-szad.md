@@ -15,7 +15,7 @@ lang: pl
   </div>
   <div class="item__content">
      <div class="item__description">
-       <p>**SZAD**, czyli&hellip; _Sieć Zaufanych Audytorów Dostępności_. Pomysł się dopiero rodzi. A chodzi o to, by uruchomić formę publicznych referencji dla osób i&nbsp;firm, które oferują usługi audytorskie w zakresie dostępności cyfrowej.</p>
+       <p>**SZAD**, czyli&hellip; _Sieć Zaufanych Audytorów Dostępności_. Pomysł się dopiero rodzi. A chodzi o&nbsp;to, by uruchomić formę publicznych referencji dla osób i&nbsp;firm, które oferują usługi audytorskie w&nbsp;zakresie dostępności cyfrowej.</p>
 	   <p>Po co? Ustawa o dostępności cyfrowej spowodowała, że znacząco wzrosło zapotrzebowanie na usługi ekspertów dostępności. Rynek odpowiedział ofertami firm, które do zajmowania się dostępnością „dojrzały” szybciej niż grzyby po deszczu. A urzędom i instytucjom, które usług eksperckich potrzebują, trudno zweryfikować ich kompetencje.</p>
 	   
     </div>
@@ -34,12 +34,8 @@ Rozwiązaniem, nawet tylko przejściowym, może stać się **Sieć Zaufanych Aud
 
 IRD byłby _ringmasterem_, odpowiedzialnym za zatwierdzanie i dodawanie do webringu witryn **zaufanych audytorów**, czy szerzej **zaufanych ekspertów**. Zasady włączania do kręgu - do ustalenia. Ale powinny być proste i łatwe do weryfikacji. Weryfikacji zgłoszeń dokonywałby np. krąg 3 sędziów powoływanych z grona uczestników webringu. 
 
-Sieć spełniałaby w pewnym sensie rolę poręczyciela, że uczestnicy Sieci to specjaliści, którzy oferują solidny poziom usług. Dla Zamawiających Sieć mogłaby być także miejscem poszukiwamnia wykonawców dla swoich zleceń.
+Sieć spełniałaby w pewnym sensie rolę poręczyciela, że uczestnicy Sieci to specjaliści, którzy oferują solidny poziom usług. Dla zamawiających Sieć mogłaby być także miejscem poszukiwamnia wykonawców dla swoich zleceń.
 
 Porozmawiajmy!
-
-
-
-
 
 

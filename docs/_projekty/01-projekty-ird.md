@@ -40,15 +40,10 @@ Na początek mamy polską wersję [HTML_CodeSniffer](https://www.irdpl.pl/HTML_C
 Od roku w ostatnią środę miesiąca odbywają się posiady grona osób zajmujących się dostępnością cyfrową. Zainicjowane i zwoływane przez Jacka Zadrożnego pogaduchy na Zoom-ie służą rozmowom o tym, co kto robi, co mu po głowie chodzi, co...  
 
 ### SZAD - webring
-**SZAD**, czyli&hellip; _Sieć Zaufanych Audytorów Dostępności_. Pomysł się dopiero rodzi. A chodzi o to, by uruchomić formę publicznych referencji dla osób i&nbsp;firm, które oferują usługi audytorskie. 
+**SZAD**, czyli&hellip; [Sieć Zaufanych Audytorów Dostępności](szad.html). Pomysł się dopiero rodzi. A chodzi o to, by uruchomić formę publicznych referencji dla osób i&nbsp;firm, które oferują usługi audytorskie. 
 
-Choć kompetencje audytorskie można już potwierdzić według reguł opisanych w&nbsp;[zintegrowanym systemie kwalifikacji zawodowych](https://kwalifikacje.gov.pl/p?id_pod=25497), to póki co, nie ma na rynku takich specjalistów. Ale przybywa firm i osób, którzy oferowane usługi realizują na odpowiednim poziomie. 
+Sieć spełniałaby w pewnym sensie rolę poręczyciela, że uczestnicy Sieci to specjaliści, którzy oferują solidny poziom usług. Dla zamawiających Sieć mogłaby być także miejscem poszukiwamnia wykonawców dla swoich zleceń.
 
-Rozwiązaniem, być może tylko przejściowym, mogłaby być **Sieć Zaufanych Audytorów Dostępności** oparta na zapomnianym już mechanizmie [webringu](https://pl.wikipedia.org/wiki/Webring). Nazwa do rozważenia. 
-
-IRD byłby _ringmasterem_, odpowiedzialnym za zatwierdzanie i dodawanie do webringu witryn **zaufanych audytorów** czy szerzej **zaufanych ekspertów**. Zasady włączania do kręgu - do ustalenia. Ale powinny być proste i łatwe do weryfikacji. Weryfikacji zgłoszeń dokonywałby np. krąg 3 sędziów powoływanych z grona uczestników webringu.      
-
-<!-- Uczestnictwo w **SZAD** byłoby poświadczeniem przez innych uczdestników IRD, że uczestnik webringu  -->
 
 
 
