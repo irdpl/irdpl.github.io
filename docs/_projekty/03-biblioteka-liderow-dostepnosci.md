@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Biblioteka Liderów Dostępności
-permalink: /projekty/biblioteka-liderow-dostepnosci
+permalink: /projekty/biblioteka-liderow-dostepnosci.html
 key: biblioteka-liderow-dostepnosci
 cover: /docs/assets/images/projekty/irdpl-biblio.svg
 # show_author_profile: true
