@@ -9,7 +9,7 @@ cover: /docs/assets/images/projekty/tlumacz-z-nami-wcag-2-2.svg
 aside:
   toc: true
 lang: pl 
-  comments: true 
+comments: true 
 ---
 
 <div class="item">
@@ -37,7 +37,7 @@ Każdy może. Zaangażuj się tak, jak chcesz, potrafisz, umiesz. Na przykład m
 
 ## Czy i jak się zgłosić
 
-Żadne formalne zgłoszenienie jest potrzebne. Wystarczy, że masz konto na Github i włączysz się w dyskusje prowadzone w projekcie WCAG.
+Żadne formalne zgłoszenie jest potrzebne. Wystarczy, że masz konto na Github i włączysz się w dyskusje prowadzone w projekcie WCAG.
 
 Ale też możesz zaangażować się bardziej. Najlepiej sama/sam [określ swoją rolę tutaj](https://github.com/orgs/irdpl/discussions/26). 
 
