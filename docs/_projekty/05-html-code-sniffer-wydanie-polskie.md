@@ -9,7 +9,7 @@ cover: /docs/assets/images/projekty/html_codesniffer.svg
 aside:
   toc: true
 lang: pl 
- comments: true 
+comments: true 
 ---
 
 <div class="item">
