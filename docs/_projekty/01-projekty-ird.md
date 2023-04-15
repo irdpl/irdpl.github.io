@@ -3,16 +3,15 @@ layout: article
 title: Nasze projekty
 permalink: /projekty/ird-nasze-projekty.html
 key: ird-nasze-projekty
-cover: /docs/assets/images/projekty/irdpl-projekty.svg
+cover: /docs/assets/images/projekty/irdpl-projekty.png
 aside:
   toc: true
 lang: pl 
-comments: true 
 ---
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--lg" src="../docs/assets/images/projekty/irdpl-projekty.svg" alt=""/>
+    <img class="image image--lg" src="../docs/assets/images/projekty/irdpl-projekty.png" alt=""/>
   </div>
   <div class="item__content">
      <div class="item__description">
@@ -27,6 +26,9 @@ comments: true
 
 ## Na dobry początek
 Rozpoczynamy od kilku projektów. I od kilku pomysłów na projekty. 
+
+### IRDpl na Github
+Siedziba :)  IRDpl mieści się, a jakże, na Github. Adres łatwy do zapamiętania. Wpisz po prostu: https://github.com/irdpl  
 
 ### Tłumaczymy WCAG 2.2
 1 marca ruszyliśmy z projektem [Tłumaczymy WCAG 2.2](tlumacz-z-nami-wcag-22.html). Celem jest przygotowanie oficjalnego tłumaczenie na język polski WCAG 2.2.

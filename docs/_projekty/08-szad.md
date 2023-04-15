@@ -3,7 +3,7 @@ layout: article
 title: SZAD
 permalink: /projekty/ird-szad.html
 key: ird-nasze-projekty
-cover: /docs/assets/images/projekty/szad.svg
+cover: /docs/assets/images/projekty/irdpl-szad.png
 aside:
   toc: true
 lang: pl 
@@ -12,7 +12,7 @@ comments: true
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--lg" src="../docs/assets/images/projekty/szad.svg" alt=""/>
+    <img class="image image--lg" src="../docs/assets/images/projekty/irdpl-szad.png" alt=""/>
   </div>
   <div class="item__content">
      <div class="item__description">

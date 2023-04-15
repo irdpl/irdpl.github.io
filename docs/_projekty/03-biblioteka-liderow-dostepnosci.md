@@ -3,18 +3,17 @@ layout: article
 title: Biblioteka Liderów Dostępności
 permalink: /projekty/biblioteka-liderow-dostepnosci.html
 key: biblioteka-liderow-dostepnosci
-cover: /docs/assets/images/projekty/irdpl-biblio.svg
+cover: /docs/assets/images/projekty/irdpl-biblio.png
 # show_author_profile: true
 # author: Stefan Wajda
 aside:
   toc: true
 lang: pl
-comments: true 
 ---
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--lg" src="../docs/assets/images/projekty/irdpl-biblio.svg" alt=""/>
+    <img class="image image--lg" src="../docs/assets/images/projekty/irdpl-biblio.png" alt=""/>
   </div>
   <div class="item__content">
      <div class="item__description">

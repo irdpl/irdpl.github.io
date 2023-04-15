@@ -3,18 +3,17 @@ layout: article
 title: Tłumacz z nami WCAG 2.2
 permalink: /projekty/tlumacz-z-nami-wcag-22.html
 key: tlumacz-z-nami-wcag-22
-cover: /docs/assets/images/projekty/tlumacz-z-nami-wcag-2-2.svg
+cover: /docs/assets/images/projekty/tlumacz-z-nami-wcag-2-2.png
 # show_author_profile: true
 # author: Stefan Wajda
 aside:
   toc: true
 lang: pl 
-comments: true 
 ---
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--lg" src="../docs/assets/images/projekty/tlumacz-z-nami-wcag-2-2.svg" alt=""/>
+    <img class="image image--lg" src="../docs/assets/images/projekty/tlumacz-z-nami-wcag-2-2.png" alt=""/>
   </div>
   <div class="item__content">
      <div class="item__description">
