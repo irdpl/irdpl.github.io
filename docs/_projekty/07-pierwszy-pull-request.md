@@ -3,7 +3,7 @@ layout: article
 title: Pierwszy pull request
 permalink: /projekty/pierwszy-pull-request.html
 key: pierwszy-pull-request
-cover: /docs/assets/images/projekty/pull-request.svg
+cover: /docs/assets/images/projekty/pull-request.png
 # show_author_profile: true
 # author: Stefan Wajda
 aside:
@@ -14,7 +14,7 @@ comments: true
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--lg" src="../docs/assets/images/projekty/pull-request.svg" alt=""/>
+    <img class="image image--lg" src="../docs/assets/images/projekty/pull-request.png" alt=""/>
   </div>
   <div class="item__content">
      <div class="item__description">
